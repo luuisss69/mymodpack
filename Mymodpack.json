@@ -1,0 +1,44 @@
+{
+    "formatVersion": 1,
+    "name": "MyModpack",
+    "version": "1.0.0",
+    "mcVersion": "1.21",
+    "modLoaders": [
+        {
+            "id": "forge-1.21-51.0.24",
+            "primary": true
+        }
+    ],
+    "mods": [
+        {
+            "id": "BiomesOPlenty",
+            "fileName": "BiomesOPlenty-forge-1.21-21.0.0.12.jar",
+            "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/download/5512374.jar"
+        },
+        {
+            "id": "GlitchCore",
+            "fileName": "GlitchCore-forge-1.21-2.0.0.2.jar",
+            "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/glitchcore/download/5483772.jar"
+        },
+        {
+            "id": "jei",
+            "fileName": "jei-1.21-forge-19.5.0.37.jar",
+            "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/jei/download/5542754.jar"
+        },
+        {
+            "id": "journeymap",
+            "fileName": "journeymap-forge-1.21-6.0.0-beta.18.jar",
+            "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/journeymap/download/5541923.jar"
+        },
+        {
+            "id": "TerraBlender",
+            "fileName": "TerraBlender-forge-1.21-4.0.0.1.jar",
+            "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/terrablender/download/5429864.jar"
+        },
+        {
+            "id": "comforts",
+            "fileName": "comforts-forge-9.0.0+1.21.jar",
+            "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/comforts/download/5506648.jar"
+        }
+    ]
+}
